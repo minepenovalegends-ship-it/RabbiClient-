@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RabbiClient</string>
+
+    <string name="news_title">Новости лаунчера</string>
+    <string name="news_welcome">Добро пожаловать в RabbiClient</string>
+    <string name="nickname_label">Ник</string>
+
+    <string name="section_versions">Версии игры</string>
+    <string name="section_mods">Моды</string>
+    <string name="section_settings">Настройки клиента</string>
+    <string name="section_logs">Логи</string>
+    <string name="section_skins">Скины</string>
+
+    <string name="play">ИГРАТЬ</string>
+    <string name="launching_game">Запуск игры...</string>
+    <string name="preview_description">Превью игры</string>
+    <string name="back">Назад</string>
+    <string name="stub_text">Раздел в разработке</string>
+</resources>
